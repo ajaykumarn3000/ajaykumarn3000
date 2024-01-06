@@ -1,4 +1,5 @@
-<h1>👋 Hello! I'm Ajaykumar Nadar</h1>
+<h1>👋 Hello! I'm Ajaykumar Nadar<img align="right" src="https://komarev.com/ghpvc/?username=ajaykumarn3000&color=blue&style=flat&label=Profile+views"></h1>
+
 <p>A passionate Full-Stack Web Developer and Professional Python Developer. Currently pursuing my Engineering degree, I find joy in crafting functional and visually appealing websites.</p>
 
 <h2>🚀 Skills:</h2>
