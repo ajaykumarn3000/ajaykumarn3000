@@ -26,4 +26,4 @@
 <h2>WakaTime Stats</h1>
 <img width="544em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajaykumarn3000&layout=compact&title_color=0366d6&bg_color=0d1117&text_color=7d97a3&border_color=31373e">
 </div>
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=99&color=gradient&reversal=false&textBg=false&fontAlignY=32&descSize=25&descAlignY=50&section=footer" width="100%">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=149&color=gradient&text=@ajaykumarn3000&reversal=false&textBg=false&fontAlignY=67&desc=Linkedin%20|%20Twitter%20|%20%Instagram%20|%20Leetcode&descSize=12&descAlignY=82&section=footer&fontSize=19" width="100%">
