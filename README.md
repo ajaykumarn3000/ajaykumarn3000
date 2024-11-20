@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ajaykumarn3000&color=blue&style=flat&label=Profile+views">
 <br>
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=0:40c463,100:0366d6&fontColor=dfdfdf" width="100%">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=0:40c463,100:0366d6&fontColor=ffffff" width="100%">
 <div align="center">
   <a href="https://ajaykumarn3000.github.io/">Portfolio</a> | 
   <a href="https://www.linkedin.com/in/ajaykumarn3000/">Linkedin</a> | 
