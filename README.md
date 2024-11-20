@@ -1,4 +1,5 @@
-<h1>👋 Hello! I'm Ajaykumar Nadar<img align="right" src="https://komarev.com/ghpvc/?username=ajaykumarn3000&color=blue&style=flat&label=Profile+views"></h1>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50" width="100%">
+<img align="right" src="https://komarev.com/ghpvc/?username=ajaykumarn3000&color=blue&style=flat&label=Profile+views">
 
 <p>A passionate Full-Stack Web Developer and Professional Python Developer. Currently pursuing my Engineering degree, I find joy in crafting functional and visually appealing websites.</p>
 
@@ -26,7 +27,7 @@ Breakout Game: Python
 </pre>
 
 <h2>🔗 Connect with me:</h2>
-<p><a href="https://www.linkedin.com/in/ajaykumarn3000/">LinkedIn</a><br>
+<p><a href="https://www.linkedin.com/in/ajaykumarn3000/"><img src="></a><br>
 <a href="https://ajaykumarn3000.github.io/portfolio">Portfolio</a></p>
 
 <p>Let's collaborate, innovate, and code for a better tomorrow! 🚀</p>
