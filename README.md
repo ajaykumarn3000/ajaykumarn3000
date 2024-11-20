@@ -1,33 +1,25 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50" width="100%">
+<div align="center">
+  <a href="https://ajaykumarn3000.github.io/">Portfolio</a> | 
+  <a href="https://www.linkedin.com/in/ajaykumarn3000/">Linkedin</a> | 
+  <a href="https://x.com/ajaykumarn3000">Twitter</a> | 
+  <a href="https://leetcode.com/u/ajaykumarn3000/">Leetcode</a>
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=,html,css,js,ts,python,&theme=dark&perline=7">
+  <h4>Libraries & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=bootstrap,express,react,nextjs,tailwind,flask,selenium&theme=dark">
+  <h4>Databases</h4>
+  <img src="https://skillicons.dev/icons?i=,,mongo,sqlite,postgres,,&theme=dark">
+  <h4>Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,pycharm,vscode,figma,postman&theme=dark">
+</div>
+<div align="center">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumarn3000&theme=github_dark">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaykumarn3000&theme=github_dark&utcOffset=5.30">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaykumarn3000&theme=github_dark">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaykumarn3000&theme=github_dark&exclude=java,CSS,EJS">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaykumarn3000&theme=github_dark&exclude=java,CSS,EJS,Jupyter Notebook">
+<img width="544em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajaykumarn3000&layout=compact&title_color=0366d6&bg_color=0d1117&text_color=7d97a3&hide_border=true">
+</div>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=ajaykumarn3000&color=blue&style=flat&label=Profile+views">
-
-<p>A passionate Full-Stack Web Developer and Professional Python Developer. Currently pursuing my Engineering degree, I find joy in crafting functional and visually appealing websites.</p>
-
-<h2>🚀 Skills:</h2>
-<pre>
-Proficient in HTML, CSS, JavaScript
-Full-Stack Development (Node.js, Express.js, MongoDB)
-Python Development (Flask, Tkinter)
-C Programming
-</pre>
-
-<h2>🎓 Education:</h2>
-<p>Bachelor of Engineering in Information Technology (Nov 2022 - Apr 2026)<br>
-St. Francis Institute Of Technology, Mumbai, India</p>
-
-<h2>🌐 Portfolio:</h2>
-<p>Explore my <a href="https://ajaykumarn3000.github.io/portfolio">Portfolio</a> to discover a collection of projects ranging from web development to Python applications.</p>
-
-<h2>🛠️ Projects:</h2>
-<pre>
-E-commerce: Python Flask, HTML, CSS, Stripe
-Blog Site: Python Flask, HTML, CSS, Bootstrap
-Todo List: Node.js, Express.js, MongoDB
-Breakout Game: Python
-</pre>
-
-<h2>🔗 Connect with me:</h2>
-<p><a href="https://www.linkedin.com/in/ajaykumarn3000/"><img src="></a><br>
-<a href="https://ajaykumarn3000.github.io/portfolio">Portfolio</a></p>
-
-<p>Let's collaborate, innovate, and code for a better tomorrow! 🚀</p>
