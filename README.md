@@ -4,15 +4,16 @@
   <a href="https://www.linkedin.com/in/ajaykumarn3000/">Linkedin</a> | 
   <a href="https://x.com/ajaykumarn3000">Twitter</a> | 
   <a href="https://leetcode.com/u/ajaykumarn3000/">Leetcode</a>
-  <h4>Languages</h4>
+  <h2>Languages</h2>
   <img src="https://skillicons.dev/icons?i=,html,css,js,ts,python,&theme=dark&perline=7">
-  <h4>Libraries & Frameworks</h4>
+  <h2>Libraries & Frameworks</h2>
   <img src="https://skillicons.dev/icons?i=bootstrap,express,react,nextjs,tailwind,flask,selenium&theme=dark">
-  <h4>Databases</h4>
+  <h2>Databases</h2>
   <img src="https://skillicons.dev/icons?i=,,mongo,sqlite,postgres,,&theme=dark">
-  <h4>Tools</h4>
+  <h2>Tools</h2>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,pycharm,vscode,figma,postman&theme=dark">
 </div>
+<h2 align="center">Github Stats</h2>
 <div align="center">
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumarn3000&theme=github_dark">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaykumarn3000&theme=github_dark&utcOffset=5.30">
