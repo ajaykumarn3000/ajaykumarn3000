@@ -13,14 +13,14 @@
   <h2>Tools</h2>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,pycharm,vscode,figma,postman&theme=dark">
 </div>
-<h2 align="center">Github Stats</h2>
+  
 <div align="center">
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumarn3000&theme=github_dark">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaykumarn3000&theme=github_dark&utcOffset=5.30">
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaykumarn3000&theme=github_dark">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaykumarn3000&theme=github_dark&exclude=java,CSS,EJS">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaykumarn3000&theme=github_dark&exclude=java,CSS,EJS,Jupyter Notebook">
-<img width="544em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajaykumarn3000&layout=compact&title_color=0366d6&bg_color=0d1117&text_color=7d97a3&hide_border=true">
+<img width="544em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajaykumarn3000&layout=compact&title_color=0366d6&bg_color=0d1117&text_color=7d97a3&border_color=31373e">
 </div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ajaykumarn3000&color=blue&style=flat&label=Profile+views">
