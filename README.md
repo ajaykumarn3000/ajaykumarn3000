@@ -3,12 +3,12 @@
 <!-- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=0:ae1cae,100:0359bb&fontColor=ffffff" width="100%"> -->
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=gradient" width="100%">
 <div align="center">
-  <h4>
+  <h3>
     <a href="https://ajaykumarn3000.github.io/">Portfolio</a> | 
     <a href="https://www.linkedin.com/in/ajaykumarn3000/">Linkedin</a> | 
     <a href="https://x.com/ajaykumarn3000">Twitter</a> | 
     <a href="https://leetcode.com/u/ajaykumarn3000/">Leetcode</a>
-  </h4>
+  </h3>
   <h2>Languages</h2>
   <img src="https://skillicons.dev/icons?i=,html,css,js,ts,python,&theme=dark&perline=7">
   <h2>Libraries & Frameworks</h2>
