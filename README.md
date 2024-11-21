@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ajaykumarn3000&color=blue&style=flat&label=Profile+views">
 <br>
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=0:40c463,100:0366d6&fontColor=ffffff" width="100%">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=0:ae1cae,100:0359bb&fontColor=ffffff" width="100%">
 <div align="center">
   <a href="https://ajaykumarn3000.github.io/">Portfolio</a> | 
   <a href="https://www.linkedin.com/in/ajaykumarn3000/">Linkedin</a> | 
@@ -25,7 +25,7 @@
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaykumarn3000&theme=github_dark&exclude=java,CSS,EJS,Jupyter Notebook">
 <h2>WakaTime Stats</h1>
 <img width="544em" src="https://wakatime.com/share/@ajaykumarn3000/bcd50749-1d6c-46db-a3d8-98f515b558b6.svg">
-<!-- <img width="544em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajaykumarn3000&layout=compact&title_color=0366d6&bg_color=0d1117&text_color=7d97a3&border_color=31373e">
+<!-- <img width="544em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajaykumarn3000&layout=compact&title_color=0359bb&bg_color=0d1117&text_color=7d97a3&border_color=31373e">
 </div> -->
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=149&text=@ajaykumarn3000&reversal=false&textBg=false&fontAlignY=67&desc=Linkedin%20|%20Twitter%20|%20%Instagram%20|%20Leetcode&descSize=12&descAlignY=82&section=footer&fontSize=19&color=0:0366d6,100:40c463&fontColor=dfdfdf" width="100%">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=149&text=@ajaykumarn3000&reversal=false&textBg=false&fontAlignY=67&desc=Linkedin%20|%20Twitter%20|%20%Instagram%20|%20Leetcode&descSize=12&descAlignY=82&section=footer&fontSize=19&color=0:0359bb,100:ae1cae&fontColor=dfdfdf" width="100%">
