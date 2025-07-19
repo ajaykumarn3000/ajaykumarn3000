@@ -11,21 +11,28 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=gradient" width="100%" title="Ajaykumar Nadar | Full-Stack Developer" alt="header">
 
 <div align="center">
-<div style="position: relative;">
 
 [<img align="4" title="LinkedIn profile" alt="linkedin-shield-icon" src="https://img.shields.io/badge/Linkedin-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAYAAADFeBvrAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHESURBVHgB7ZhPTsJAFId/bd0LN8AbyAnEne68gQ3xAPQElBNU1ybAFVy6Ui9gYOeyR+ACtL4pxmh03hQI01fyvoS/bxr4Mm/evCmgKIpyzATOEcMsplG3KDGgTyt6v8AaCebJAgLhhYbZmJ5TSzTBNLmHMOxCZmaAGTgKnNFM5RBEaI2YNHMRYARh2IU2a4YnwDmEETKxFVoIl3LuKlZCXKXjhCbgyUlIXJWLrJH35xz9K1MFB/9EV1ThrqnCfUAY7o01zno0Kv0uACVeq5kRVq6VtuBOOR+YtDZrNQpPURZdWp85UD0WlNpbbR/NCsUZSWDMbuIB5tQMT+quWa6XK1GHaRJsdZ0ZH2cdEpmRyA3qk9K1rq2E7RQOw0bmZUsZQ/rV/bP4F4qQkcyuPWCKO0pTBv9CJWLsQ8EfafwL7U+Pm6U2CoGqnnX9NSn0Rr9+SSnUrSpfhD6l40OtK0Nc2EInaIYJSaS/vnmsbrqMqJKZV/7oX1LaWWhihpZ/ZH4yTeb0h5/A07EF/AsFYeYcE1J3sCP+hdbF0j1m95Owf6E6Nyj3OGu1s2wzqJB0VEg6KiQdFZKOCklHhaRzdEKKoijHzSd5yW3NYwS1eAAAAABJRU5ErkJggg==">](https://www.linkedin.com/in/ajaykumarn3000) [<img title="Twitter/X profile" alt="twitter-shield-icon" align="4" src="https://img.shields.io/badge/Twitter-1681C1?logo=x&style=flat&logoSize=amg">](https://x.com/ajaykumarn3000) [<img title="Leetcode profile" alt="leetcode-shield-icon" align="4" src="https://img.shields.io/badge/Leetcode-131415?logo=leetcode">](https://leetcode.com/u/ajaykumarn3000) [<img title="Portfolio website" alt="portfolio-shield-icon" align="4" src="https://img.shields.io/badge/Portfolio-orange?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik0yMSAxMkMyMSAxNi45NzA2IDE2Ljk3MDYgMjEgMTIgMjFNMjEgMTJDMjEgNy4wMjk0NCAxNi45NzA2IDMgMTIgM00yMSAxMkMyMSAxMy42NTY5IDE2Ljk3MDYgMTUgMTIgMTVDNy4wMjk0NCAxNSAzIDEzLjY1NjkgMyAxMk0yMSAxMkMyMSAxMC4zNDMxIDE2Ljk3MDYgOSAxMiA5QzcuMDI5NDQgOSAzIDEwLjM0MzEgMyAxMk0xMiAyMUM3LjAyOTQ0IDIxIDMgMTYuOTcwNiAzIDEyTTEyIDIxQzEwLjM0MzEgMjEgOSAxNi45NzA2IDkgMTJDOSA3LjAyOTQ0IDEwLjM0MzEgMyAxMiAzTTEyIDIxQzEzLjY1NjkgMjEgMTUgMTYuOTcwNiAxNSAxMkMxNSA3LjAyOTQ0IDEzLjY1NjkgMyAxMiAzTTMgMTJDMyA3LjAyOTQ0IDcuMDI5NDQgMyAxMiAzIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+DQo8L3N2Zz4=&logoColor=blue">](https://ajaykumarn3000.in)
-
 </div>
 
-<h2>Languages</h2>
-  <img src="https://skillicons.dev/icons?i=,,js,ts,python,,&theme=dark&perline=7">
-  <h2>Libraries & Frameworks</h2>
-  <img src="https://skillicons.dev/icons?i=bootstrap,express,react,nextjs,tailwind,flask,selenium&theme=dark">
-  <h2>Databases</h2>
-  <img src="https://skillicons.dev/icons?i=,,mongo,sqlite,postgres,,&theme=dark">
-  <h2>Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,pycharm,vscode,figma,postman&theme=dark">
-</div>
+<table>
+<tr>
+  <td><h2 align="center">Languages</h2></td>
+  <td><h2 align="center">Libraries & Frameworks</h2></td>
+</tr>
+<tr>
+  <td><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=7"></td>
+  <td><img src="https://skillicons.dev/icons?i=bootstrap,express,react,nextjs,tailwind,flask,selenium&theme=dark"></td>
+</tr>
+<tr>
+  <td><h2 align="center">Databases</h2></td>
+  <td><h2 align="center">DevTools</h2></td>
+</tr>
+<tr>
+  <td><img src="https://skillicons.dev/icons?i=mongo,sqlite,postgres&theme=dark"></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,vercel,pycharm,vscode,figma,postman&theme=dark"></td>
+</tr>
+</table>
 
 <div align="center"><h2>Github Stats</h2>
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumarn3000&theme=github_dark">
