@@ -19,7 +19,8 @@
       <td><div align=center><b>Languages</div></b></td>
       <td><div align=center><b>Libraries & Frameworks</div></b></td>
       <td rowspan=4>
-        <img src="https://private-user-images.githubusercontent.com/128183101/380433170-118651a3-24bf-4d2d-aa03-c38eed677946.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5MjU4ODMsIm5iZiI6MTc1MjkyNTU4MywicGF0aCI6Ii8xMjgxODMxMDEvMzgwNDMzMTcwLTExODY1MWEzLTI0YmYtNGQyZC1hYTAzLWMzOGVlZDY3Nzk0Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxOVQxMTQ2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDBkZTgzNjZlNDg0ZjViZmQ1MzgzNjA5NWViMjdiMGY1Y2JiNzU3MzdiOGIzYzJiM2ZmODI1N2UwYzYxZGMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0-2dK4tlqFtFdjK4HNepx5xqMiMaLW_CdLlvf7Bc0D0">
+<!--         <img src="https://private-user-images.githubusercontent.com/128183101/380433170-118651a3-24bf-4d2d-aa03-c38eed677946.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5MjU4ODMsIm5iZiI6MTc1MjkyNTU4MywicGF0aCI6Ii8xMjgxODMxMDEvMzgwNDMzMTcwLTExODY1MWEzLTI0YmYtNGQyZC1hYTAzLWMzOGVlZDY3Nzk0Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxOVQxMTQ2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDBkZTgzNjZlNDg0ZjViZmQ1MzgzNjA5NWViMjdiMGY1Y2JiNzU3MzdiOGIzYzJiM2ZmODI1N2UwYzYxZGMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0-2dK4tlqFtFdjK4HNepx5xqMiMaLW_CdLlvf7Bc0D0"> -->
+        <img width="439" height="326" alt="coffee-n-code" src="https://github.com/user-attachments/assets/a4ba4ee6-f4d7-4fed-a467-3c59da76c5ce" />
       </td>
     </tr>
     <tr>
