@@ -41,11 +41,11 @@
 <div align="center">
   <h2>Github Stats</h2>
 
-  <img height="161em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumarn3000&theme=github_dark">
-  <img height="163em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaykumarn3000&theme=github_dark&utcOffset=5.30">
-  <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaykumarn3000&theme=github_dark">
-  <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaykumarn3000&theme=github_dark&exclude=java,CSS,EJS">
-  <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaykumarn3000&theme=github_dark&exclude=java,CSS,EJS,Jupyter Notebook">
+  <img height="161em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumarn3000&theme=midnight_purple">
+  <img height="163em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaykumarn3000&theme=midnight_purple&utcOffset=5.30">
+  <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaykumarn3000&theme=midnight_purple">
+  <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaykumarn3000&theme=midnight_purple&exclude=java,CSS,EJS">
+  <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaykumarn3000&theme=midnight_purple&exclude=java,CSS,EJS,Jupyter Notebook">
   <h2>WakaTime Stats</h1>
   <table>
     <tr>
