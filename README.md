@@ -8,7 +8,7 @@
 <!-- <img style="position: absolute; bottom:10px; right: 0px; " src="https://komarev.com/ghpvc/?username=ajaykumarn3000&color=blue&style=flat&label=Profile+views">
 <div> -->
 
-<img title="Ajaykumar Nadar | Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack Developer&descSize=25&descAlignY=50&color=gradient" alt="header" align="center" width="">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=gradient" width="100%" title="Ajaykumar Nadar | Full-Stack Developer" alt="header">
 
 <div align="center">
 <div style="position: relative;">
