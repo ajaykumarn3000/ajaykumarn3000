@@ -1,6 +1,6 @@
 <!-- FIXED GRADIENT HEADER -->
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ajaykumar%20Nadar&reversal=false&textBg=false&fontAlignY=32&desc=Full-Stack%20Developer&descSize=25&descAlignY=50&color=100:3919bb,70:8d14ff,40:e164ed,0:ff95ae&fontColor=eeeeee" title="Ajaykumar Nadar | Full-Stack Developer" alt="header" width="100%">
+<img align="center" src="./assets/header.svg" title="Ajaykumar Nadar | Full-Stack Developer" alt="header" width="100%">
 
 <div align="center">
 
@@ -57,7 +57,7 @@
   </table>
   <!-- <img width="544em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajaykumarn3000&layout=compact&title_color=0359bb&bg_color=0d1117&text_color=7d97a3&border_color=31373e"> -->
 </div>
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=149&text=@ajaykumarn3000&reversal=false&textBg=false&fontAlignY=67&desc=Linkedin%20|%20Twitter%20|%20%Instagram%20|%20Leetcode&descSize=12&descAlignY=82&section=footer&fontSize=19&color=0:3919bb,30:8d14ff,60:e164ed,100:ff95ae&fontColor=eeeeee" width="100%">
+<img align="center" src="./assets/footer.svg" width="100%">
 <!-- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=149&text=@ajaykumarn3000&reversal=false&textBg=false&fontAlignY=67&desc=Linkedin%20|%20Twitter%20|%20%Instagram%20|%20Leetcode&descSize=12&descAlignY=82&section=footer&fontSize=19&color=100:4115c7,40:bb4fce,0:d37d8d&fontColor=dfdfdf" width="100%"> -->
 
 
