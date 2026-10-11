@@ -16,24 +16,34 @@
 
 <table>
     <tr>
-      <td><div align=center><b>Languages</div></b></td>
-      <td><div align=center><b>Libraries & Frameworks</div></b></td>
-      <td rowspan=4>
+      <td colspan=3><div align=center><b>Languages</div></b></td>
+      <td colspan=6><div align=center><b>Frontend</div></b></td>
+      <td rowspan=6>
 <!--         <img src="https://private-user-images.githubusercontent.com/128183101/380433170-118651a3-24bf-4d2d-aa03-c38eed677946.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5MjU4ODMsIm5iZiI6MTc1MjkyNTU4MywicGF0aCI6Ii8xMjgxODMxMDEvMzgwNDMzMTcwLTExODY1MWEzLTI0YmYtNGQyZC1hYTAzLWMzOGVlZDY3Nzk0Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxOVQxMTQ2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDBkZTgzNjZlNDg0ZjViZmQ1MzgzNjA5NWViMjdiMGY1Y2JiNzU3MzdiOGIzYzJiM2ZmODI1N2UwYzYxZGMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0-2dK4tlqFtFdjK4HNepx5xqMiMaLW_CdLlvf7Bc0D0"> -->
         <img width="439" height="326" alt="coffee-n-code" src="https://github.com/user-attachments/assets/a4ba4ee6-f4d7-4fed-a467-3c59da76c5ce" />
       </td>
     </tr>
     <tr>
-      <td><img height="44em" src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=7"></td>
-      <td><img height="44em" src="https://skillicons.dev/icons?i=bootstrap,express,react,nextjs,tailwind,flask,selenium&theme=dark"></td>
+      <td colspan=3 align=center><img height="44em" src="https://skills.syvixor.com/api/icons?i=typescript,python,sql"></td>
+      <td colspan=6 align=center><img height="44em" src="https://skills.syvixor.com/api/icons?i=nextjs,reactnative,tailwindcss,antdesign,shadcnui,motion"></td>
     </tr>
     <tr>
-      <td><div align=center><b>Databases</div></b></td>
-      <td><div align=center><b>DevTools</div></b></td>
+      <td colspan=3><div align=center><b>Backend</div></b></td>
+      <td colspan=3><div align=center><b>Database & ORM</div></b></td>
+      <td colspan=3><div align=center><b>DevOps & Tooling</div></b></td>
     </tr>
     <tr>
-      <td><img height="44em" src="https://skillicons.dev/icons?i=mongo,sqlite,postgres&theme=dark"></td>
-      <td><img height="44em" src="https://skillicons.dev/icons?i=git,github,vercel,pycharm,vscode,figma,postman&theme=dark"></td>
+      <td colspan=3 align=center><img height="44em" src="https://skills.syvixor.com/api/icons?i=expressjs,fastapi,flask"></td>
+      <td colspan=3 align=center><img height="44em" src="https://skills.syvixor.com/api/icons?i=postgresql,mongodb,prisma"></td>
+      <td colspan=3 align=center><img height="44em" src="https://skills.syvixor.com/api/icons?i=turborepo,pnpm,amazonwebservices"></td>
+    </tr>
+    <tr>
+      <td colspan=4><div align=center><b>Auth & Validation</div></b></td>
+      <td colspan=5><div align=center><b>Tools</div></b></td>
+    </tr>
+    <tr>
+      <td colspan=4 align=center><img height="44em" src="https://skills.syvixor.com/api/icons?i=betterauth,authjs,jwt,zod"></td>
+      <td colspan=5 align=center><img height="44em" src="https://skills.syvixor.com/api/icons?i=git,github,visualstudiocode,figma,postman"></td>
     </tr>
 </table>
 
